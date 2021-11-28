@@ -1,0 +1,25 @@
+
+BROWSER JS;
+
+    1) Browser js need browser as a running environment by using v8 engine to execute javascript code.
+
+    2) Browser have window,documet and DOM for interaction.
+
+    3) you can,t control the environment in browser js.
+
+    4) It does not have common module where you can write ES5-6-7-8-9.
+
+    5) Browser is compatible for front end applications.
+
+
+NODE JS;
+
+    1) Node js does not use browser , it uses node js as a running environment by using v8 engine to execute javascript code.
+
+    2) Node js does not have interaction of dom and window.
+
+    3) you can control the environment in Node.js.
+
+    4) NODE JS uses common module system where we can write all versions of javascript.
+
+    5) Node js is compatible for both front end and back end Applications.
