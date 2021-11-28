@@ -1,0 +1,11 @@
+How BROWSER works?
+
+  1) when we search any wesite for the first time in search box it goes for the DNS(Domain Name Server) to get IP adress of that     particular's website.
+
+  2) Along with the ip address request goes to the server to make TCP connection,before making a connection there are two handshake process     should be done(ack-syn-ack-ack and another one three way handshake process to check safety).
+
+  3) After these handshake process done the TCP connection should be established the data shoud be transfer to the user as per the request.
+
+  4) Once the data recieved the browser the parser parses the HTML and CSS into DOMTREE and CSSSOM.
+
+  5) The tree structure is then renderer by using rendering engine and then painted,printed on the screen.
